@@ -5,7 +5,7 @@
 <div align="center">
 
 <img src="./src-tauri/icons/icon.png" width="120" alt="花笺图标">
-
+Star个人改进版，非官方。
 # 花笺 Floral Notepaper
 
 轻量、优雅、现代化的本地便签工具<br>
